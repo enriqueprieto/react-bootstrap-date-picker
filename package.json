@@ -16,6 +16,7 @@
   "directories": {
     "test": "test"
   },
+  "private": false,
   "peerDependencies": {
     "react": ">=0.14.0",
     "react-bootstrap": "^1.3.0",
